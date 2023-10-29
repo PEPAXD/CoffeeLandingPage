@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap");
 @font-face {
   font-family: "CoffeFont";
-  src: url(/css/PicturamaAlternate_PERSONAL_USE_ONLY.otf) format("opentype");
+  src: url(PicturamaAlternate_PERSONAL_USE_ONLY.otf) format("opentype");
 }
 /* Variables CSS */
 :root {
